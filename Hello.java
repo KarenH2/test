@@ -15,4 +15,10 @@ public class Hello{
 	/*public static double calc(double a ,double b){
 		return a-b;
 	}*/
+
+	public static void m2(String[] args){
+		for(int i=0;i<args.length;i++){
+			System.out.println(i);
+		}
+	}
 }
