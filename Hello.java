@@ -9,7 +9,7 @@ public class Hello{
 		return i+j;
 	}
 
-	public static double calc(double a ,double b){
+	/*public static double calc(double a ,double b){
 		return a-b;
-	}
+	}*/
 }
