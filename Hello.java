@@ -8,4 +8,8 @@ public class Hello{
 	public static int calc(int i,int j){
 		return i+j;
 	}
+
+	public static double calc(double a ,double b){
+		return a-b;
+	}
 }
